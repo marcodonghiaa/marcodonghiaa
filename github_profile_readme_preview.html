@@ -1,0 +1,444 @@
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Space+Grotesk:wght@400;500;600&display=swap');
+
+  .gh {
+    font-family: 'JetBrains Mono', monospace;
+    background: #0d1117;
+    color: #e6edf3;
+    padding: 2rem;
+    border-radius: 12px;
+    line-height: 1.6;
+    font-size: 13px;
+  }
+
+  .gh-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #21262d;
+  }
+
+  .gh-ascii {
+    font-size: 9px;
+    line-height: 1.1;
+    color: #39FF14;
+    white-space: pre;
+    letter-spacing: 0;
+    flex-shrink: 0;
+  }
+
+  .gh-intro {
+    flex: 1;
+  }
+
+  .gh-name {
+    font-size: 22px;
+    font-weight: 700;
+    color: #f0f6fc;
+    margin: 0 0 4px;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .gh-tag {
+    color: #39FF14;
+    font-size: 12px;
+    margin: 0 0 12px;
+  }
+
+  .gh-bio {
+    color: #8b949e;
+    font-size: 12px;
+    line-height: 1.7;
+    max-width: 420px;
+  }
+
+  .badges {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-top: 12px;
+  }
+
+  .badge {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 4px;
+    padding: 3px 10px;
+    font-size: 11px;
+    color: #8b949e;
+  }
+
+  .badge.green { color: #39FF14; border-color: #39FF1440; }
+  .badge.blue { color: #58a6ff; border-color: #58a6ff40; }
+  .badge.purple { color: #bc8cff; border-color: #bc8cff40; }
+
+  .section {
+    margin: 1.5rem 0;
+  }
+
+  .section-title {
+    color: #8b949e;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    margin: 0 0 10px;
+  }
+
+  .section-title span {
+    color: #39FF14;
+  }
+
+  .code-block {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 6px;
+    padding: 1rem 1.2rem;
+    font-size: 12px;
+  }
+
+  .code-row {
+    display: grid;
+    grid-template-columns: 180px 12px 1fr;
+    gap: 0 8px;
+    padding: 2px 0;
+    align-items: center;
+  }
+
+  .code-key { color: #8b949e; }
+  .code-sep { color: #30363d; }
+  .code-val { color: #e6edf3; }
+  .code-val.green { color: #39FF14; }
+  .code-val.blue { color: #58a6ff; }
+  .code-val.purple { color: #bc8cff; }
+  .code-val.amber { color: #d29922; }
+
+  .numbers-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+  }
+
+  .num-card {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 6px;
+    padding: 12px;
+    text-align: left;
+  }
+
+  .num-val {
+    font-size: 22px;
+    font-weight: 700;
+    color: #39FF14;
+    display: block;
+    margin-bottom: 2px;
+  }
+
+  .num-label {
+    font-size: 10px;
+    color: #8b949e;
+    line-height: 1.3;
+  }
+
+  .projects-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .project-card {
+    background: #161b22;
+    border: 1px solid #21262d;
+    border-radius: 6px;
+    padding: 10px 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    cursor: pointer;
+    transition: border-color 0.15s;
+  }
+
+  .project-card:hover { border-color: #39FF1440; }
+
+  .project-name {
+    color: #58a6ff;
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 3px;
+  }
+
+  .project-desc {
+    color: #8b949e;
+    font-size: 11px;
+    line-height: 1.4;
+  }
+
+  .project-tag {
+    background: #0d4429;
+    color: #39FF14;
+    border-radius: 999px;
+    padding: 2px 8px;
+    font-size: 10px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .stack-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .stack-badge {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 4px;
+    padding: 4px 10px;
+    font-size: 11px;
+    color: #e6edf3;
+  }
+
+  .gantt-bars {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .gantt-row {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 10px;
+    align-items: center;
+  }
+
+  .gantt-label {
+    font-size: 11px;
+    color: #8b949e;
+    text-align: right;
+  }
+
+  .gantt-track {
+    background: #21262d;
+    border-radius: 2px;
+    height: 14px;
+    position: relative;
+  }
+
+  .gantt-bar {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    padding-left: 6px;
+    font-size: 9px;
+    font-weight: 600;
+  }
+
+  .bar-green { background: #39FF1430; border: 1px solid #39FF1460; color: #39FF14; }
+  .bar-blue { background: #58a6ff25; border: 1px solid #58a6ff50; color: #58a6ff; }
+  .bar-purple { background: #bc8cff25; border: 1px solid #bc8cff50; color: #bc8cff; }
+
+  .divider {
+    border: none;
+    border-top: 1px solid #21262d;
+    margin: 0;
+  }
+
+  .footer-links {
+    display: flex;
+    gap: 14px;
+    margin-top: 1rem;
+  }
+
+  .footer-link {
+    color: #58a6ff;
+    font-size: 11px;
+    text-decoration: none;
+  }
+
+  .footer-link:hover { text-decoration: underline; }
+
+  .cursor {
+    display: inline-block;
+    width: 8px;
+    height: 13px;
+    background: #39FF14;
+    animation: blink 1s step-end infinite;
+    vertical-align: middle;
+    margin-left: 2px;
+  }
+
+  @keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+  }
+</style>
+
+<div class="gh">
+
+  <div class="gh-header">
+    <div class="gh-ascii">
+██╗   ██╗██╗  ████████╗ ██████╗
+██║   ██║██║  ╚══██╔══╝██╔═══██╗
+██║   ██║██║     ██║   ██║   ██║
+╚██╗ ██╔╝██║     ██║   ██║   ██║
+ ╚████╔╝ ███████╗██║   ╚██████╔╝
+  ╚═══╝  ╚══════╝╚═╝    ╚═════╝</div>
+    <div class="gh-intro">
+      <p class="gh-name">Vito</p>
+      <p class="gh-tag">// founder-operator → gtm builder</p>
+      <p class="gh-bio">
+        20 y/o from Bologna. Built a $120K+ marketplace from scratch, 
+        now going deeper into GTM, growth, and the tools that make sales 
+        teams move faster. Incoming exchange student @UC Berkeley Haas.
+      </p>
+      <div class="badges">
+        <span class="badge green">🟢 Open to Winter 2026 internships</span>
+        <span class="badge blue">📍 Bay Area · Dec–Mar</span>
+        <span class="badge purple">🎯 GTM · Growth · Strategy Ops</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="section-title"><span>~</span> about me</p>
+    <div class="code-block">
+      <div class="code-row"><span class="code-key">Name</span><span class="code-sep">░</span><span class="code-val">Vito [surname]</span></div>
+      <div class="code-row"><span class="code-key">Based in</span><span class="code-sep">░</span><span class="code-val blue">Bologna, Italy → Berkeley, CA (Fall 2026)</span></div>
+      <div class="code-row"><span class="code-key">Currently</span><span class="code-sep">░</span><span class="code-val green">Founder @ Gameboost · $120K+ GMV · 2 years</span></div>
+      <div class="code-row"><span class="code-key">Role</span><span class="code-sep">░</span><span class="code-val">Head of VC Desk @ Unibo Fintech Society</span></div>
+      <div class="code-row"><span class="code-key">Also</span><span class="code-sep">░</span><span class="code-val">Associate @ Starting Finance Club Bologna</span></div>
+      <div class="code-row"><span class="code-key">GMAT target</span><span class="code-sep">░</span><span class="code-val amber">655+ (July 2026)</span></div>
+      <div class="code-row"><span class="code-key">English</span><span class="code-sep">░</span><span class="code-val">IELTS 8.5</span></div>
+      <div class="code-row"><span class="code-key">Looking for</span><span class="code-sep">░</span><span class="code-val green">GTM · Growth · Strategy Ops @ early-stage startups<span class="cursor"></span></span></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="section-title"><span>~</span> by the numbers</p>
+    <div class="numbers-grid">
+      <div class="num-card">
+        <span class="num-val">$120K+</span>
+        <span class="num-label">GMV generated on Gameboost marketplace</span>
+      </div>
+      <div class="num-card">
+        <span class="num-val">2 yrs</span>
+        <span class="num-label">running a live business as a solo operator</span>
+      </div>
+      <div class="num-card">
+        <span class="num-val">15+</span>
+        <span class="num-label">startup founders interviewed at VC desk</span>
+      </div>
+      <div class="num-card">
+        <span class="num-val">8.5</span>
+        <span class="num-label">IELTS English score</span>
+      </div>
+      <div class="num-card">
+        <span class="num-val">2</span>
+        <span class="num-label">student societies actively contributing to</span>
+      </div>
+      <div class="num-card">
+        <span class="num-val">∞</span>
+        <span class="num-label">cold emails sent that nobody replied to (yet)</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="section-title"><span>~</span> my stack</p>
+    <div class="stack-row">
+      <span class="stack-badge">Clay</span>
+      <span class="stack-badge">Apollo</span>
+      <span class="stack-badge">HubSpot</span>
+      <span class="stack-badge">Notion</span>
+      <span class="stack-badge">Airtable</span>
+      <span class="stack-badge">n8n</span>
+      <span class="stack-badge">Claude</span>
+      <span class="stack-badge">ChatGPT</span>
+      <span class="stack-badge">Perplexity</span>
+      <span class="stack-badge">Canva</span>
+      <span class="stack-badge">Google Sheets</span>
+      <span class="stack-badge">Loom</span>
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="section-title"><span>~</span> projects</p>
+    <div class="projects-list">
+      <div class="project-card">
+        <div>
+          <p class="project-name">📦 gameboost-retrospective</p>
+          <p class="project-desc">Full operator teardown of how I built and scaled a $120K digital marketplace — pricing, acquisition, ops, what broke, what worked.</p>
+        </div>
+        <span class="project-tag">GTM · Ops</span>
+      </div>
+      <div class="project-card">
+        <div>
+          <p class="project-name">🔍 startup-gtm-teardowns</p>
+          <p class="project-desc">Deep-dives on how early-stage startups acquire their first 1000 customers. ICP, channels, messaging, funnel.</p>
+        </div>
+        <span class="project-tag">Research</span>
+      </div>
+      <div class="project-card">
+        <div>
+          <p class="project-name">🧪 icp-builder</p>
+          <p class="project-desc">AI-assisted tool to generate Ideal Customer Profiles from a product description. Built with Claude API + no-code.</p>
+        </div>
+        <span class="project-tag">AI · GTM</span>
+      </div>
+      <div class="project-card">
+        <div>
+          <p class="project-name">📬 cold-email-analyzer</p>
+          <p class="project-desc">Paste a cold email, get a quality score + rewrite. Trained on frameworks from best practitioners.</p>
+        </div>
+        <span class="project-tag">Sales · AI</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <p class="section-title"><span>~</span> a day in my life</p>
+    <div class="code-block">
+      <div class="gantt-bars">
+        <div class="gantt-row">
+          <span class="gantt-label">Morning</span>
+          <div class="gantt-track">
+            <div class="gantt-bar bar-green" style="left:0%; width:35%;">Gameboost orders + comms</div>
+          </div>
+        </div>
+        <div class="gantt-row">
+          <span class="gantt-label">Mid-morning</span>
+          <div class="gantt-track">
+            <div class="gantt-bar bar-blue" style="left:35%; width:30%;">VC desk / research</div>
+          </div>
+        </div>
+        <div class="gantt-row">
+          <span class="gantt-label">Afternoon</span>
+          <div class="gantt-track">
+            <div class="gantt-bar bar-purple" style="left:65%; width:25%;">GMAT prep</div>
+          </div>
+        </div>
+        <div class="gantt-row">
+          <span class="gantt-label">Evening</span>
+          <div class="gantt-track">
+            <div class="gantt-bar bar-green" style="left:90%; width:10%;">Build stuff</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr class="divider">
+
+  <div class="footer-links">
+    <a class="footer-link" href="#">LinkedIn</a>
+    <a class="footer-link" href="#">Email me</a>
+    <a class="footer-link" href="#">Gameboost store</a>
+  </div>
+
+</div>
