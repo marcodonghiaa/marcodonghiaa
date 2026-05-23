@@ -40,6 +40,12 @@ Looking for    ░░░░░░░░░░  GTM · Growth · Strategy Ops @ e
 
 ---
 
+### `~ my stats`
+
+🏃 [2026 training log](https://marcodonghiaa.github.io/git-sweaty/)
+
+---
+
 ### `~ by the numbers`
 
 | | |
