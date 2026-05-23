@@ -40,19 +40,13 @@ Looking for    ░░░░░░░░░░  GTM · Growth · Strategy Ops @ e
 
 ---
 
-### `~ my stats`
-
-🏃 [2026 training log](https://marcodonghiaa.github.io/git-sweaty/)
-
----
-
 ### `~ by the numbers`
-
 | | |
 |---|---|
 | **$120K+** GMV generated on Gameboost marketplace | **2+ yrs** running a live business as a solo operator |
 | **8+** startup founders interviewed at VC desk | **3** published research articles on finance & markets |
 | **2** student societies actively contributing to | **∞** cold emails sent that nobody replied to (yet) |
+| [🏃 2026 training log](https://marcodonghiaa.github.io/git-sweaty/) | |
 
 ---
 
