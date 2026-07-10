@@ -51,10 +51,10 @@ Looking for    ░░░░░░░░░░  Sales · GTM · Growth @ early-st
 
 | | |
 |---|---|
-| 🚀 [**Startups Insights — Newsletter**](https://www.linkedin.com/newsletters/startups-insights-7267226500536418305/) | Interviews with early-stage founders. How startups are built, what breaks, and what drives growth from zero. |
-| 📊 [**Alternative Investments — Analysis**](https://www.linkedin.com/posts/riot-investment-research_alternative-investments-activity-7444307546774859776-m5Yj) | Research on alternative asset classes: structure, risk profile, return drivers, and portfolio applications. |
-| 📈 [**Options & Futures — Analysis**](https://www.linkedin.com/posts/riot-investment-research_options-and-futures-unlocking-potential-activity-7396485557205348352-wqGN) | Introduction to derivatives: mechanics of options and futures, key strategies, and risk management frameworks. |
-| 🤖 [**Robo-Advisors — Analysis**](https://www.linkedin.com/posts/riot-investment-research_roboadvisors-activity-7350440224230932480-3puS) | Breakdown of robo-advisor services: how they work, who they serve, cost vs. human advice, European landscape. |
+| 🚀 [**Startups Insights, Newsletter**](https://www.linkedin.com/newsletters/startups-insights-7267226500536418305/) | Interviews with early-stage founders. How startups are built, what breaks, and what drives growth from zero. |
+| 📊 [**Alternative Investments Analysis**](https://www.linkedin.com/posts/riot-investment-research_alternative-investments-activity-7444307546774859776-m5Yj) | Research on alternative asset classes: structure, risk profile, return drivers, and portfolio applications. |
+| 📈 [**Options & Futures Analysis**](https://www.linkedin.com/posts/riot-investment-research_options-and-futures-unlocking-potential-activity-7396485557205348352-wqGN) | Introduction to derivatives: mechanics of options and futures, key strategies, and risk management frameworks. |
+| 🤖 [**Robo-Advisors Analysis**](https://www.linkedin.com/posts/riot-investment-research_roboadvisors-activity-7350440224230932480-3puS) | Breakdown of robo-advisor services: how they work, who they serve, cost vs. human advice, European landscape. |
 
 ---
 
