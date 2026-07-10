@@ -25,12 +25,12 @@
 
 ```
 Name           ░░░░░░░░░░  Marco D'Onghia
-Based in       ░░░░░░░░░░  Bologna, Italy → Berkeley, CA (Fall 2026)
-Currently      ░░░░░░░░░░  Store Founder @ Gameboost · $120K+ GMV · 2+ years
-Role           ░░░░░░░░░░  Head of VC Desk @ Unibo Fintech Society
-Also           ░░░░░░░░░░  Associate @ Starting Finance Club Bologna
-Interests      ░░░░░░░░░░  Personal finance, Psychology, Fitness, Travelling
-Looking for    ░░░░░░░░░░  GTM · Growth · Strategy Ops @ early-stage startups
+Living in      ░░░░░░░░░░  Berkeley (CA) 
+Currently      ░░░░░░░░░░  Founder @KANON · $130K+ GMV · 2+ years
+Also           ░░░░░░░░░░  Investment Analyst @ Starting Finance Club Bologna 
+Prev           ░░░░░░░░░░  Head of VC & Startups @ Unibo Fintech Society
+Interests      ░░░░░░░░░░  Personal Finance, Fitness, Travelling
+Looking for    ░░░░░░░░░░  Sales · GTM · Growth @ early-stage startups (Bay Area / EU )
 ```
 ---
 
@@ -43,10 +43,8 @@ Looking for    ░░░░░░░░░░  GTM · Growth · Strategy Ops @ e
 ### `~ by the numbers`
 | | |
 |---|---|
-| **$120K+** GMV generated on Gameboost marketplace | **2+ yrs** running a live business as a solo operator |
-| **8+** startup founders interviewed at VC desk | **3** published research articles on finance & markets |
-| **2** student societies actively contributing to | **∞** cold emails sent that nobody replied to (yet) |
-| [🏃 2026 training log](https://marcodonghiaa.github.io/git-sweaty/) | |
+| **$130K+** GMV generated on online marketplaces | **2+ yrs** running a live business as a solo operator |
+| **10+** startup founders interviewed at VC desk | **∞** cold emails sent that nobody replied to (yet) |
 
 ---
 
