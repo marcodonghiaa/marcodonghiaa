@@ -9,14 +9,12 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 ```
 
-</div>
+## `// founder-operator → GTM builder`
 
-### `// founder-operator → gtm builder`
-
-20 y/o originally from Siena, now in Bologna. Built a $120K+ store from scratch, now going deeper into GTM, growth, and the tools that make sales teams move faster. Incoming exchange student @UC Berkeley Haas.
+20 y/o, originally from Siena and now in Bologna. Built a $120K+ store from scratch, and I’m now going deeper into GTM, growth, and the tools that help sales teams move faster. Incoming exchange student at UC Berkeley Haas.
 
 ![Open to internships](https://img.shields.io/badge/🟢_Open_to_Winter_2026_internships-0d4429?style=flat-square&labelColor=0d4429&color=0d4429)
-![Location](https://img.shields.io/badge/📍_SF_Bay_Area_·_Jan-May-0c2d6b?style=flat-square&color=0c2d6b)
+![Location](https://img.shields.io/badge/📍_SF_Bay_Area_·_Jan—May-0c2d6b?style=flat-square&color=0c2d6b)
 ![Focus](https://img.shields.io/badge/🎯_GTM_·_Growth_·_Strategy_Ops-2d1b6b?style=flat-square&color=2d1b6b)
 
 ---
