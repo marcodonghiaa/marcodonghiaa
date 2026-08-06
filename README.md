@@ -10,7 +10,7 @@
 ```
 </div> 
 
-Hey there! My name is Marco and I am a 20yo Italian student from @University of Bologna. At 17 I started reselling my in-game inventory items to start funding my retirement ETFs portfolio ;). In under 2-years, running it as a solo operator with no knowledge whatsoever on business or e-commerce, I have bootstrapped it into a $150k+ USD marketplace. I am now going deep on GTM ops and posting the daily learning process at [GMT 101](https://github.com/marcodonghiaa/gtm-101) , check it out!
+Hey there! My name is Marco and I am a 20yo Italian student from @University of Bologna. At 17 I started reselling my in-game inventory items to start funding my retirement ETFs portfolio ;). In under 2-years, running it as a solo operator with no knowledge whatsoever on business or e-commerce, I have bootstrapped it into a $150k+ USD marketplace. I am now building IN PUBLIC my next startup idea, watch me fail, or not !
 
 Also if u are in the Bay Area, shoot me a pm on LinkedIn, let's chat!
 
