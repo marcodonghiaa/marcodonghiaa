@@ -9,14 +9,14 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 ```
 </div> 
-  
-## `// founder-operator → gtm builder`
 
-20 y/o originally from Siena, now in Bologna. Built a $120K+ store from scratch, now going deeper into GTM, growth, and the tools that make sales teams move faster. Incoming exchange student @UC Berkeley Haas.
+Hey there! My name is Marco and I am a 20yo Italian student from @University of Bologna. At 17 I started reselling my in-game inventory items to start funding my retirement ETFs portfolio ;). In under 2-years, running it as a solo operator with no knowledge whatsoever on business or e-commerce, I have bootstrapped it into a $150k+ USD marketplace. I am now going deep on GTM ops and posting the daily  grind in my GTM 101 repo, check it out!
+
+Also if u are in the Bay Area, shoot me a pm on LinkedIn, let's chat!
 
 ![Open to internships](https://img.shields.io/badge/🟢_Open_to_Winter_2026_internships-0d4429?style=flat-square&labelColor=0d4429&color=0d4429)
 ![Location](https://img.shields.io/badge/📍_SF_Bay_Area_·_Jan--May-0c2d6b?style=flat-square&color=0c2d6b)
-![Focus](https://img.shields.io/badge/🎯_GTM_·_Growth_·_Strategy_Ops-2d1b6b?style=flat-square&color=2d1b6b)
+![Focus](https://img.shields.io/badge/🎯_GTM_·Personal_Brand-2d1b6b?style=flat-square&color=2d1b6b)
 
 ---
 
@@ -24,12 +24,11 @@
 
 ```
 Name           ░░░░░░░░░░  Marco D'Onghia
-Living in      ░░░░░░░░░░  Berkeley (CA) 
-Currently      ░░░░░░░░░░  Founder @KANON · $130K+ GMV · 2+ years
-Also           ░░░░░░░░░░  Investment Analyst @ Starting Finance Club Bologna 
-Prev           ░░░░░░░░░░  Head of VC & Startups @ Unibo Fintech Society
-Interests      ░░░░░░░░░░  Personal Finance, Fitness, Travelling
-Looking for    ░░░░░░░░░░  Sales · GTM · Growth @ early-stage startups (Bay Area / EU )
+Living in      ░░░░░░░░░░  Berkeley, CA (US)
+Currently      ░░░░░░░░░░  Founder @KANON · $150K+ Sales · 2+ years
+Extra          ░░░░░░░░░░  Associate @Starting Finance Club 
+Interests      ░░░░░░░░░░  Personal Finance, Calistenichs, Hiking, Travelling, Motorcycles
+Looking for    ░░░░░░░░░░  GTM ops / Founder's associate @ early-stage startups (Bay Area / EU )
 ```
 ---
 
@@ -42,8 +41,8 @@ Looking for    ░░░░░░░░░░  Sales · GTM · Growth @ early-st
 ### `~ by the numbers`
 | | |
 |---|---|
-| **$130K+** GMV generated on online marketplaces | **2+ yrs** running a live business as a solo operator |
-| **10+** startup founders interviewed at VC desk | **∞** cold emails sent that nobody replied to (yet) |
+| **$150K+** Sales Revenue generated on online marketplaces | **2+ yrs** running a live business as a solo operator |
+| **10+** startup founders interviewed | **∞** business ideas, pitches, and repo failed ;) |
 
 ---
 
@@ -55,18 +54,6 @@ Looking for    ░░░░░░░░░░  Sales · GTM · Growth @ early-st
 | 📊 [**Alternative Investments Analysis**](https://www.linkedin.com/posts/riot-investment-research_alternative-investments-activity-7444307546774859776-m5Yj) | Research on alternative asset classes: structure, risk profile, return drivers, and portfolio applications. |
 | 📈 [**Options & Futures Analysis**](https://www.linkedin.com/posts/riot-investment-research_options-and-futures-unlocking-potential-activity-7396485557205348352-wqGN) | Introduction to derivatives: mechanics of options and futures, key strategies, and risk management frameworks. |
 | 🤖 [**Robo-Advisors Analysis**](https://www.linkedin.com/posts/riot-investment-research_roboadvisors-activity-7350440224230932480-3puS) | Breakdown of robo-advisor services: how they work, who they serve, cost vs. human advice, European landscape. |
-
----
-
-### `~ my stack`
-
-![Clay](https://img.shields.io/badge/Clay-4F4EE5?style=flat-square&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-FF7A59?style=flat-square&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 
 ---
 
