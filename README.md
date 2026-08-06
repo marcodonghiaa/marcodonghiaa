@@ -27,7 +27,7 @@ Name           ░░░░░░░░░░  Marco D'Onghia
 Living in      ░░░░░░░░░░  Berkeley, CA (US)
 Currently      ░░░░░░░░░░  Founder @KANON · $150K+ Sales · 2+ years
 Extra          ░░░░░░░░░░  Associate @Starting Finance Club 
-Interests      ░░░░░░░░░░  Personal Finance, Calistenichs, Hiking, Travelling, Motorcycles
+Interests      ░░░░░░░░░░  Personal Finance, Calisthenics, Hiking, Travelling, Motorcycles
 Looking for    ░░░░░░░░░░  GTM ops / Founder's associate @ early-stage startups (Bay Area / EU )
 ```
 ---
