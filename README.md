@@ -32,7 +32,7 @@ Looking for    ░░░░░░░░░░  GTM ops / Founder's associate @ e
 
 ### `~ now building`
 
-📊 [**Your Finances Tracker**](marcodonghiaa/myfinances) — an autonomous European personal finance tracker: PSD2 open banking (Enable Banking) → Supabase → AI-categorized transactions → live net worth dashboard. Zero manual entry, local-first, built end-to-end from scratch.
+📊 [**Your Finances Tracker**](https://github.com/marcodonghiaa/myfinances) — an autonomous European personal finance tracker: PSD2 open banking (Enable Banking) → Supabase → AI-categorized transactions → live net worth dashboard. Zero manual entry, local-first, built end-to-end from scratch.
 
 ---
 
