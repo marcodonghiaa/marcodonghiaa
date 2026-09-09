@@ -10,11 +10,9 @@
 ```
 </div> 
 
-Hey there! 
-
 ![Open to internships](https://img.shields.io/badge/🟢_Open_to_Winter_2026_internships-0d4429?style=flat-square&labelColor=0d4429&color=0d4429)
 ![Location](https://img.shields.io/badge/📍_SF_Bay_Area_·_Jan--May-0c2d6b?style=flat-square&color=0c2d6b)
-![Focus](https://img.shields.io/badge/🎯_GTM_·Personal_Brand-2d1b6b?style=flat-square&color=2d1b6b)
+![Searching for](https://img.shields.io/badge/🎯_Founder's_Associate_/_Ops_roles-2d1b6b?style=flat-square&color=2d1b6b)
 
 ---
 
