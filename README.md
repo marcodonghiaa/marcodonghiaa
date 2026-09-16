@@ -30,7 +30,7 @@ Looking for    ░░░░░░░░░░  GTM ops / Founder's associate @ e
 
 ### `~ now building`
 
-📊 [**Your Finances Tracker**](https://github.com/marcodonghiaa/myfinances) — an autonomous European personal finance tracker: PSD2 open banking (Enable Banking) → Supabase → AI-categorized transactions → live net worth dashboard. Zero manual entry, local-first, built end-to-end from scratch.
+📊 [**MyFinances**](https://myfinancesss.lovable.app/demo) — an autonomous European personal finance tracker: PSD2 open banking (Enable Banking) → Supabase → AI-categorized transactions → live net worth dashboard. Zero manual entry, local-first, built end-to-end from scratch. Two-repo project: [backend](https://github.com/marcodonghiaa/myfinances) (sync + AI categorization) · [frontend](https://github.com/marcodonghiaa/my-wealth-view) (dashboard).
 
 📊 **Startup Ops** *(private for now)* — a fork of an open-source AI job-search pipeline, retooled around VC and accelerator portfolio boards: scans Getro/Ashby-powered portfolio job boards across dozens of funds, surfaces matching roles automatically, and tracks prospects through a live pipeline. Built end-to-end from scratch on top of the upstream project.
 
