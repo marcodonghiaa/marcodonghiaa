@@ -1,9 +1,12 @@
 <div align="center">
 
 ```
-┏┳┓┏━┓┏━┓┏━╸┏━┓
-┃┃┃┣━┫┣┳┛┃  ┃ ┃
-╹ ╹╹ ╹╹┗╸┗━╸┗━┛
+███╗   ███╗ █████╗ ██████╗  ██████╗ ██████╗
+████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔═══██╗
+██╔████╔██║███████║██████╔╝██║     ██║   ██║
+██║╚██╔╝██║██╔══██║██╔══██╗██║     ██║   ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 ```
 </div>
 
@@ -15,38 +18,29 @@
 
 </div>
 
-**Looking for:** roles with direct impact on growth, and roles where I can learn directly from the founding team. My goals are to get better at outbound, closing and marketing, and to scale brands. I'm interested in AI, fintech and what makes consumer apps go viral.
-
-**Avoiding:** roles with no ownership, and work that's mostly internal process.
-
 ---
 
 ### `~ about me`
 
 ```
-Name & Age  Marco, 20 years old
-Lived in    Italy (Siena, Bologna)
-            US (Berkeley)
-Studied     University of Bologna
-            UC Berkeley Haas
-Interests   Personal Finance
-            AI Agents
-            Behavioural Studies
-Hobbies     Calisthenics, Hiking
-            Motorcycles, Backpacking
+Name & Age    ░░░░░░░░░░  Marco, 20 years old
+Lived in      ░░░░░░░░░░  Italy (Siena, Bologna) and US (Berkeley)
+Studied at    ░░░░░░░░░░  University of Bologna, UC Berkeley Haas
+Interests     ░░░░░░░░░░  Personal Finance, AI Agents, Behavioural Studies
+Hobbies       ░░░░░░░░░░  Calisthenics, Hiking, Motorcycles, Backpacking
 ```
 
 ---
 
 ### `~ what i've shipped`
 
-| Project | Result |
-|:--|:--|
-| [**Swag As A Service**](https://swagasaservice.com)<br>Co-founder · 2026 | **4 sponsors in 5 days**: LimaData, LlamaIndex, Sparta (a16z) |
-| **KANON**<br>Founder · 2024-26 | **$170k in sales**, 62% margin, 1,150+ customers |
-| [**Startup Insights**](https://www.linkedin.com/newsletters/startups-insights-7267226500536418305)<br>Director · 2025-26 | **390+ subscribers**, 36.7k impressions in 6 months |
-| **UniBo Fintech Society**<br>Head of VC · 2025-26 | Led 8 people, interviewed 10+ European founders |
-| **Starting Finance Club Bologna**<br>Associate | 3 research publications for 1,400+ members |
+| Project | Role | Result |
+|:--|:--|:--|
+| [**Swag As A Service**](https://swagasaservice.com) | Co-founder · 2026 | **4 sponsors in 5 days** (LimaData, LlamaIndex, Sparta) |
+| **KANON** | Founder · 2024-26 | **$170k in sales**, 62% margin, 1,150+ customers |
+| [**Startup Insights**](https://www.linkedin.com/newsletters/startups-insights-7267226500536418305) | Director · 2025-26 | **390+ subscribers**, 36.7k impressions |
+| **UniBo Fintech Society** | Head of VC · 2025-26 | Led 8 people, 10+ founder interviews |
+| **Starting Finance Club** | Associate | 3 research papers for 1,400+ members |
 
 ---
 
