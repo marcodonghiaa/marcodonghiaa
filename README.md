@@ -8,38 +8,53 @@
 ██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗╚██████╔╝
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 ```
-</div> 
+</div>
 
-![Open to internships](https://img.shields.io/badge/🟢_Open_to_Winter_2026_internships-0d4429?style=flat-square&labelColor=0d4429&color=0d4429)
-![Location](https://img.shields.io/badge/📍_SF_Bay_Area_·_Jan--May-0c2d6b?style=flat-square&color=0c2d6b)
-![Searching for](https://img.shields.io/badge/🎯_Founder's_Associate_/_Ops_roles-2d1b6b?style=flat-square&color=2d1b6b)
+<div align="center">
+
+![Open to](https://img.shields.io/badge/OPEN_TO-FOUNDER'S_ASSOCIATE_%C2%B7_BD_%C2%B7_GROWTH-2ea043?style=for-the-badge&labelColor=14161F)
+![Location](https://img.shields.io/badge/LOCATION-BERKELEY,_CA-1f6feb?style=for-the-badge&labelColor=14161F)
+![Stage](https://img.shields.io/badge/STAGE-EARLY--STAGE_STARTUPS-8957e5?style=for-the-badge&labelColor=14161F)
+
+</div>
 
 ---
 
 ### `~ about me`
 
 ```
-Name & Age     ░░░░░░░░░░  Marco D'Onghia , 20 years old
+Name & Age     ░░░░░░░░░░  Marco D'Onghia, 20 years old
 Living in      ░░░░░░░░░░  Berkeley, CA (US)
-Currently      ░░░░░░░░░░  Founder @KANON · $150K+ Sales · 2+ years
+Studying       ░░░░░░░░░░  UC Berkeley
 Interests      ░░░░░░░░░░  Personal Finance, Calisthenics, Hiking, Motorcycles
-Looking for    ░░░░░░░░░░  GTM ops / Founder's associate @ early-stage startups
 ```
+
+---
+
+### `~ what i've shipped`
+
+| Project | Role | Result |
+|:--|:--|:--|
+| [**Swag As A Service**](https://swagasaservice.com) | Co-founder · 2026 | Landed **4 sponsors in 5 days**: LimaData, LlamaIndex, Sparta (a16z) |
+| **KANON** | Founder · 2024-26 | **$170k in sales**, 62% margin, 1,150+ customers (e-commerce) |
+| [**Startup Insights**](https://www.linkedin.com/newsletters/startups-insights-7267226500536418305) | Writer · 2025-26 | **390+ subscribers**, 36.7k impressions in 6 months |
 
 ---
 
 ### `~ now building`
 
-📊 [**MyFinances**](https://myfinancesss.lovable.app/demo) — an autonomous European personal finance tracker: PSD2 open banking (Enable Banking) → Supabase → AI-categorized transactions → live net worth dashboard. Zero manual entry, local-first, built end-to-end from scratch. Two-repo project: [backend](https://github.com/marcodonghiaa/myfinances) (sync + AI categorization) · [frontend](https://github.com/marcodonghiaa/my-wealth-view) (dashboard).
+📊 [**MyFinance$$**](https://myfinancesss.lovable.app/demo) (open source, MIT): PSD2 open banking → Supabase → AI-categorized transactions → live net-worth dashboard. [Backend](https://github.com/marcodonghiaa/myfinances) · [Dashboard](https://github.com/marcodonghiaa/my-wealth-view)
 
-📊 **Startup Ops** *(private for now)* — a fork of an open-source AI job-search pipeline, retooled around VC and accelerator portfolio boards: scans Getro/Ashby-powered portfolio job boards across dozens of funds, surfaces matching roles automatically, and tracks prospects through a live pipeline. Built end-to-end from scratch on top of the upstream project.
+🔎 **Startup Ops** *(private)*: AI job-search pipeline retooled around VC and accelerator portfolio boards. Scans dozens of funds, surfaces matching roles, tracks prospects through a live pipeline.
 
 ---
 
 ### `~ my spotify is now playing`
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w0a29las77hsqn3tqz8th6ez4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w0a29las77hsqn3tqz8th6ez4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/w0a29las77hsqn3tqz8th6ez4)
+
 ---
 
+[![Website](https://img.shields.io/badge/Website-14161F?style=for-the-badge&logo=safari&logoColor=white)](https://marcodonghiaa.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcodonghiaa)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.dgh06@gmail.com)
