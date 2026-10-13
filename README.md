@@ -1,60 +1,72 @@
 <div align="center">
 
 ```
-███╗   ███╗ █████╗ ██████╗  ██████╗ ██████╗
-████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔═══██╗
-██╔████╔██║███████║██████╔╝██║     ██║   ██║
-██║╚██╔╝██║██╔══██║██╔══██╗██║     ██║   ██║
-██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗╚██████╔╝
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝
+┏┳┓┏━┓┏━┓┏━╸┏━┓
+┃┃┃┣━┫┣┳┛┃  ┃ ┃
+╹ ╹╹ ╹╹┗╸┗━╸┗━┛
 ```
 </div>
 
 <div align="center">
 
-![Open to](https://img.shields.io/badge/OPEN_TO-FOUNDER'S_ASSOCIATE_%C2%B7_BD_%C2%B7_GROWTH-2ea043?style=for-the-badge&labelColor=14161F)
-![Location](https://img.shields.io/badge/LOCATION-BERKELEY,_CA-1f6feb?style=for-the-badge&labelColor=14161F)
-![Stage](https://img.shields.io/badge/STAGE-EARLY--STAGE_STARTUPS-8957e5?style=for-the-badge&labelColor=14161F)
+[![Website: marcodonghiaa.com](https://img.shields.io/badge/WEBSITE-MARCODONGHIAA.COM-c4452a?style=for-the-badge&labelColor=2d333b&logo=safari&logoColor=white)](https://marcodonghiaa.com)
+
+![Open to high-ownership roles](https://img.shields.io/badge/OPEN_TO-HIGH--OWNERSHIP_ROLES-1a7f37?style=for-the-badge&labelColor=2d333b&logo=handshake&logoColor=white) ![Open to relocation, anywhere](https://img.shields.io/badge/RELOCATION-OPEN_%C2%B7_ANYWHERE-0969da?style=for-the-badge&labelColor=2d333b&logo=googlemaps&logoColor=white)
 
 </div>
+
+**Looking for:** roles with direct impact on growth, and roles where I can learn directly from the founding team. My goals are to get better at outbound, closing and marketing, and to scale brands. I'm interested in AI, fintech and what makes consumer apps go viral.
+
+**Avoiding:** roles with no ownership, and work that's mostly internal process.
 
 ---
 
 ### `~ about me`
 
 ```
-Name & Age     ░░░░░░░░░░  Marco D'Onghia, 20 years old
-Living in      ░░░░░░░░░░  Berkeley, CA (US)
-Studying       ░░░░░░░░░░  UC Berkeley
-Interests      ░░░░░░░░░░  Personal Finance, Calisthenics, Hiking, Motorcycles
+Name & Age  Marco, 20 years old
+Lived in    Italy (Siena, Bologna)
+            US (Berkeley)
+Studied     University of Bologna
+            UC Berkeley Haas
+Interests   Personal Finance
+            AI Agents
+            Behavioural Studies
+Hobbies     Calisthenics, Hiking
+            Motorcycles, Backpacking
 ```
 
 ---
 
 ### `~ what i've shipped`
 
-| Project | Role | Result |
-|:--|:--|:--|
-| [**Swag As A Service**](https://swagasaservice.com) | Co-founder · 2026 | Landed **4 sponsors in 5 days**: LimaData, LlamaIndex, Sparta (a16z) |
-| **KANON** | Founder · 2024-26 | **$170k in sales**, 62% margin, 1,150+ customers (e-commerce) |
-| [**Startup Insights**](https://www.linkedin.com/newsletters/startups-insights-7267226500536418305) | Writer · 2025-26 | **390+ subscribers**, 36.7k impressions in 6 months |
+| Project | Result |
+|:--|:--|
+| [**Swag As A Service**](https://swagasaservice.com)<br>Co-founder · 2026 | **4 sponsors in 5 days**: LimaData, LlamaIndex, Sparta (a16z) |
+| **KANON**<br>Founder · 2024-26 | **$170k in sales**, 62% margin, 1,150+ customers |
+| [**Startup Insights**](https://www.linkedin.com/newsletters/startups-insights-7267226500536418305)<br>Director · 2025-26 | **390+ subscribers**, 36.7k impressions in 6 months |
+| **UniBo Fintech Society**<br>Head of VC · 2025-26 | Led 8 people, interviewed 10+ European founders |
+| **Starting Finance Club Bologna**<br>Associate | 3 research publications for 1,400+ members |
 
 ---
 
 ### `~ now building`
 
-📊 [**MyFinance$$**](https://myfinancesss.lovable.app/demo) (open source, MIT): PSD2 open banking → Supabase → AI-categorized transactions → live net-worth dashboard. [Backend](https://github.com/marcodonghiaa/myfinances) · [Dashboard](https://github.com/marcodonghiaa/my-wealth-view)
+- [**MyFinance$$**](https://myfinancesss.lovable.app/demo) (open source, MIT): PSD2 open banking → Supabase → AI-categorized transactions → live net-worth dashboard. [Backend](https://github.com/marcodonghiaa/myfinances) · [Dashboard](https://github.com/marcodonghiaa/my-wealth-view)
 
-🔎 **Startup Ops** *(private)*: AI job-search pipeline retooled around VC and accelerator portfolio boards. Scans dozens of funds, surfaces matching roles, tracks prospects through a live pipeline.
+- **Startup Ops** *(private, in development)*: AI job-search pipeline retooled around VC and accelerator portfolio boards. Scans dozens of funds, surfaces matching roles, tracks prospects through a live pipeline.
+
+- **Head of Marketing** *(private)*: an AI agent fleet with the knowledge of the best marketers in the world.
 
 ---
 
 ### `~ my spotify is now playing`
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w0a29las77hsqn3tqz8th6ez4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/w0a29las77hsqn3tqz8th6ez4)
+[![Spotify: currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=w0a29las77hsqn3tqz8th6ez4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/w0a29las77hsqn3tqz8th6ez4)
 
 ---
 
-[![Website](https://img.shields.io/badge/Website-14161F?style=for-the-badge&logo=safari&logoColor=white)](https://marcodonghiaa.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcodonghiaa)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/marcodonghiaa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maarco.mov)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.dgh06@gmail.com)
