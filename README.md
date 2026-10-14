@@ -25,7 +25,7 @@
 ```
 Name & Age    ░░░░░░░░░░  Marco, 20 years old
 Lived in      ░░░░░░░░░░  Italy (Siena, Bologna) and US (Berkeley)
-Studied at    ░░░░░░░░░░  University of Bologna, UC Berkeley Haas
+Studied at    ░░░░░░░░░░  University of Bologna, UC Berkeley
 Interests     ░░░░░░░░░░  Personal Finance, AI Agents, Behavioural Studies
 Hobbies       ░░░░░░░░░░  Calisthenics, Hiking, Motorcycles, Backpacking
 ```
@@ -36,9 +36,9 @@ Hobbies       ░░░░░░░░░░  Calisthenics, Hiking, Motorcycles,
 
 | Project | Role | Result |
 |:--|:--|:--|
-| [**Swag As A Service**](https://swagasaservice.com) | Co-founder · 2026 | **4 sponsors in 5 days** (LimaData, LlamaIndex, Sparta) |
-| **KANON** | Founder · 2024-26 | **$170k in sales**, 62% margin, 1,150+ customers |
-| [**Startup Insights**](https://www.linkedin.com/newsletters/startups-insights-7267226500536418305) | Director · 2025-26 | **390+ subscribers**, 36.7k impressions |
+| [**Swag As A Service**](https://swagasaservice.com) | Co-founder · 2026 | **3 sponsors in under 7 days** (LimaData, LlamaIndex, Sparta) |
+| **KANON** | Founder · 2024-26 | **$170k in sales**, 62.5% margin, 1,150+ customers |
+| [**Startup Insights**](https://www.linkedin.com/newsletters/startups-insights-7267226500536418305) | Built it as Head of VC · 2025-26 | **390+ subscribers**, 36.7k impressions |
 | **UniBo Fintech Society** | Head of VC · 2025-26 | Led 8 people, 10+ founder interviews |
 | **Starting Finance Club** | Associate | 3 research papers for 1,400+ members |
 
@@ -54,7 +54,7 @@ Hobbies       ░░░░░░░░░░  Calisthenics, Hiking, Motorcycles,
 
 ---
 
-### `~ my spotify is now playing`
+### `~ my spotify is now playing`  ·  `my agents are shipping`
 
 [![Spotify: currently playing](https://spotify-github-profile.kittinanx.com/api/view?uid=w0a29las77hsqn3tqz8th6ez4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/w0a29las77hsqn3tqz8th6ez4)
 
