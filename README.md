@@ -46,7 +46,7 @@ Hobbies       ░░░░░░░░░░  Calisthenics, Hiking, Motorcycles,
 
 ### `~ now building`
 
-- [**MyFinance$$**](https://myfinancesss.lovable.app/demo) (open source, MIT): PSD2 open banking → Supabase → AI-categorized transactions → live net-worth dashboard. [Backend](https://github.com/marcodonghiaa/myfinances) · [Dashboard](https://github.com/marcodonghiaa/my-wealth-view)
+- [**MyFinance$$**]([https://myfinancesss.lovable.app/demo](https://myfinancess-view.vercel.app/auth)) (open source, MIT): PSD2 open banking → Supabase → AI-categorized transactions → live net-worth dashboard. [Backend](https://github.com/marcodonghiaa/myfinances) · [Dashboard](https://github.com/marcodonghiaa/my-wealth-view)
 
 - **Startup Ops** *(private, in development)*: AI job-search pipeline retooled around VC and accelerator portfolio boards. Scans dozens of funds, surfaces matching roles, tracks prospects through a live pipeline and get warm introductions.
 
